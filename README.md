@@ -52,6 +52,7 @@ A location-based web application that helps users discover nearby restaurants, c
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Google Maps API
 
+[🔗 Repository](https://github.com/aastha-19/MoodTrail)
 ---
 
 ### 🛒 SmartShop
@@ -68,6 +69,7 @@ A student-focused platform that provides study materials, notes, previous year p
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
+[🔗 Repository](https://github.com/aastha-19/Examhub)
 ---
 
 ### 🤝 MindCare (Collaboration Project)
@@ -76,6 +78,7 @@ Contributed to the development of a mental wellness platform aimed at improving 
 
 **Role:** Project Collaborator
 
+[🔗 Repository](https://github.com/aastha-19/mindcare-app)
 ---
 
 ##  What I'm Working On
